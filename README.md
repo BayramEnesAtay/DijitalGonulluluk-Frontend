@@ -89,9 +89,4 @@ To run this project locally, follow these steps:
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots of your application here to showcase the UI/UX)*
-
----
 
