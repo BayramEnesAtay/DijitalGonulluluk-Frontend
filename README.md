@@ -85,7 +85,6 @@ To run this project locally, follow these steps:
     ```bash
     npm start
     ```
-    *The app will launch in your browser at `http://localhost:3000`.*
 
 ---
 
